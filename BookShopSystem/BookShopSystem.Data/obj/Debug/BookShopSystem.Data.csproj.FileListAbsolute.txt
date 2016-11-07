@@ -1,0 +1,12 @@
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll.config
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\Models.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\Models.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.pdb
