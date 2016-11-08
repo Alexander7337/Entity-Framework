@@ -1,1 +1,0 @@
-C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Client.exe.config

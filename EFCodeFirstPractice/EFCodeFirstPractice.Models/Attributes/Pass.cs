@@ -1,10 +1,9 @@
-﻿using System.Linq;
-using System.Text.RegularExpressions;
-
-namespace EFCodeFirstPractice.Models.Attributes
+﻿namespace EFCodeFirstPractice.Models.Attributes
 {
     using System;
     using System.ComponentModel.DataAnnotations;
+    using System.Linq;
+    using System.Text.RegularExpressions;
     public class Pass : ValidationAttribute
     {
         private int minLength;

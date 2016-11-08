@@ -22,7 +22,6 @@
         }
         #endregion
 
-
         #region Use ValidationResult IsValid(object value, ValidationContext validationContext)
         //protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         //{
