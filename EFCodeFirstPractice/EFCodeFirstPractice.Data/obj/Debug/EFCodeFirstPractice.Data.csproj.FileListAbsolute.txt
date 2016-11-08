@@ -1,0 +1,12 @@
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EFCodeFirstPractice.Data.dll.config
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EFCodeFirstPractice.Data.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EFCodeFirstPractice.Data.pdb
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EFCodeFirstPractice.Models.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EntityFramework.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EFCodeFirstPractice.Models.pdb
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EntityFramework.xml
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\obj\Debug\EFCodeFirstPractice.Data.csprojResolveAssemblyReference.cache
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\obj\Debug\EFCodeFirstPractice.Data.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Data\obj\Debug\EFCodeFirstPractice.Data.pdb

@@ -1,0 +1,14 @@
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Client.exe.config
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Client.exe
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Client.pdb
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Data.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EntityFramework.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Data.pdb
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EntityFramework.xml
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\obj\Debug\EFCodeFirstPractice.Client.csprojResolveAssemblyReference.cache
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\obj\Debug\EFCodeFirstPractice.Client.exe
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\obj\Debug\EFCodeFirstPractice.Client.pdb
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Models.dll
+C:\Users\Alexander7337\Documents\Visual Studio 2015\Projects\EFCodeFirstPractice\EFCodeFirstPractice.Client\bin\Debug\EFCodeFirstPractice.Models.pdb
