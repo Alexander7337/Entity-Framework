@@ -17,3 +17,16 @@ C:\Users\Alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Book
 C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
 C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
 C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.pdb
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.dll
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\Models.dll
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.pdb
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\Models.pdb
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.csprojResolveAssemblyReference.cache
