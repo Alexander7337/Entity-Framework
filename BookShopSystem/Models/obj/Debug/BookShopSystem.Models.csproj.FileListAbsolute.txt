@@ -1,0 +1,16 @@
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\Models.dll.config
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\Models.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\Models.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\EntityFramework.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\Iesi.Collections.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\NHibernate.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\EntityFramework.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\Iesi.Collections.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\NHibernate.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\obj\Debug\Models.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\obj\Debug\Models.pdb
+C:\Users\Alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Alexander7337\documents\visual studio 2015\Projects\BookShopSystem\Models\bin\Debug\EntityFramework.Extended.xml

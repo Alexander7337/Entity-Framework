@@ -1,0 +1,19 @@
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\Models.dll
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\Models.pdb
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
+c:\users\alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb
+C:\Users\Alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Alexander7337\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
+C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb
