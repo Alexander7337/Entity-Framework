@@ -13,6 +13,8 @@
     {
         public static void Main()
         {
+            //Queries to Database
+
             BookShopContext context = new BookShopContext();
 
             #region Task 1

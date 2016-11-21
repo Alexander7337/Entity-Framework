@@ -1,1 +1,0 @@
-C:\Users\Alexander7337\Documents\GitHub\Entity-Framework\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
